@@ -1,0 +1,15 @@
+-
+layout: paper
+title: Defining T Cell States Associated with Response to Checkpoint Immunotherapy in Melanoma
+image: 
+authors: Sade-Feldman M1, Yizhak K2, Bjorgaard SL3, Ray JP2, de Boer CG2, Jenkins RW4, Lieb DJ2, Chen JH5, Frederick DT6, Barzily-Rokni M6, Freeman SS7, Reuben A8, Hoover PJ9, Villani AC1, Ivanova E10, Portell A10, Lizotte PH10, Aref AR10, Eliane JP11, Hammond MR6, Vitzthum H6, Blackmon SM6, Li B12, Gopalakrishnan V8, Reddy SM8, Cooper ZA13, Paweletz CP10, Barbie DA14, Stemmer-Rachamimov A11, Flaherty KT15, Wargo JA13, Boland GM16, Sullivan RJ15, Getz G17, Hacohen N18.
+
+year: 2018
+ref: Sade-Feldman et al. 2018. Cell.
+journal: Cell. 2018 Nov 1;175(4):998-1013.e20.
+pdf: https://reader.elsevier.com/reader/sd/pii/S0092867418313941?token=76B48B324B4D4F11881182CABCB9C61C14BA475C9EBA081B18FC1491AF214DC911E85A995C2BD516803DEC336B7ABA08
+doi: 10.1016/j.cell.2018.10.038
+---
+
+# Abstract
+Treatment of cancer has been revolutionized by immune checkpoint blockade therapies. Despite the high rate of response in advanced melanoma, the majority of patients succumb to disease. To identify factors associated with success or failure of checkpoint therapy, we profiled transcriptomes of 16,291 individual immune cells from 48 tumor samples of melanoma patients treated with checkpoint inhibitors. Two distinct states of CD8+ T cells were defined by clustering and associated with patient tumor regression or progression. A single transcription factor, TCF7, was visualized within CD8+ T cells in fixed tumor samples and predicted positive clinical outcome in an independent cohort of checkpoint-treated patients. We delineated the epigenetic landscape and clonality of these T cell states and demonstrated enhanced antitumor immunity by targeting novel combinations of factors in exhausted cells. Our study of immune cell transcriptomes from tumors demonstrates a strategy for identifying predictors, mechanisms, and targets for enhancing checkpoint immunotherapy.
