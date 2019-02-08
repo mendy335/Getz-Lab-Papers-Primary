@@ -1,0 +1,15 @@
+layout: paper
+title: DeTiN: overcoming tumor-in-normal contamination.
+image: 
+authors: Taylor-Weiner A1,2, Stewart C1, Giordano T3, Miller M1, Rosenberg M1, Macbeth A1, Lennon N1, Rheinbay E1, Landau DA1,4,5,6, Wu CJ1,7,8,9, Getz G10,11,12,13.
+year: 2018
+ref: Taylor-Weiner et al. 2018. Nat Methods.
+journal: Nat Methods. 2018 Jul;15(7):531-534
+pdf: https://www.nature.com/articles/s41592-018-0036-9.pdf
+doi:  10.1038/s41592-018-0036-9
+github: 
+---
+
+# Abstract
+
+Comparison of sequencing data from a tumor sample with data from a matched germline control is a key step for accurate detection of somatic mutations. Detection sensitivity for somatic variants is greatly reduced when the matched normal sample is contaminated with tumor cells. To overcome this limitation, we developed deTiN, a method that estimates the tumor-in-normal (TiN) contamination level and, in cases affected by contamination, improves sensitivity by reclassifying initially discarded variants as somatic
