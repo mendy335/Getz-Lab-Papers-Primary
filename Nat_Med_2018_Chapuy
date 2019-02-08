@@ -1,0 +1,15 @@
+layout: paper
+title: Molecular subtypes of diffuse large B cell lymphoma are associated with distinct pathogenic mechanisms and outcomes.
+image: 
+authors: Chapuy B1,2, Stewart C3, Dunford AJ3, Kim J3, Kamburov A3, Redd RA4, Lawrence MS2,3,5, Roemer MGM1, Li AJ6, Ziepert M7, Staiger AM8,9, Wala JA3, Ducar MD10, Leshchiner I3, Rheinbay E3, Taylor-Weiner A3, Coughlin CA1, Hess JM3, Pedamallu CS3, Livitz D3, Rosebrock D3, Rosenberg M3, Tracy AA3, Horn H8, van Hummelen P10, Feldman AL11, Link BK12, Novak AJ11, Cerhan JR11, Habermann TM11, Siebert R13, Rosenwald A14, Thorner AR10, Meyerson ML2,3, Golub TR2,3, Beroukhim R2,3, Wulf GG15, Ott G9, Rodig SJ2,16, Monti S6, Neuberg DS2,4, Loeffler M7, Pfreundschuh M17, Trümper L15, Getz G18,19,20, Shipp MA21,22.
+year: 2018
+ref: Chapuy et al. 2018. Nat Med.
+journal: Nat Med. 2018 May;24(5):679-690
+pdf: https://www.nature.com/articles/s41591-018-0016-8.pdf
+doi:  doi: 10.1038/s41591-018-0016-8
+github: 
+---
+
+# Abstract
+
+Diffuse large B cell lymphoma (DLBCL), the most common lymphoid malignancy in adults, is a clinically and genetically heterogeneous disease that is further classified into transcriptionally defined activated B cell (ABC) and germinal center B cell (GCB) subtypes. We carried out a comprehensive genetic analysis of 304 primary DLBCLs and identified low-frequency alterations, captured recurrent mutations, somatic copy number alterations, and structural variants, and defined coordinate signatures in patients with available outcome data. We integrated these genetic drivers using consensus clustering and identified five robust DLBCL subsets, including a previously unrecognized group of low-risk ABC-DLBCLs of extrafollicular/marginal zone origin; two distinct subsets of GCB-DLBCLs with different outcomes and targetable alterations; and an ABC/GCB-independent group with biallelic inactivation of TP53, CDKN2A loss, and associated genomic instability. The genetic features of the newly characterized subsets, their mutational signatures, and the temporal ordering of identified alterations provide new insights into DLBCL pathogenesis. The coordinate genetic signatures also predict outcome independent of the clinical International Prognostic Index and suggest new combination treatment strategies. More broadly, our results provide a roadmap for an actionable DLBCL classification.
