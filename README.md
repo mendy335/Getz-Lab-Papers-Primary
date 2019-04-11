@@ -1,2 +1,2 @@
-# Getz-Lab-Papers-Primary
+# GetzLab-Papers-Primary
 Getz Lab paper list - Gaddy as last, co-last, co-corresponding author
